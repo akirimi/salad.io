@@ -60,7 +60,7 @@ header {
 
 /* メイン */
 #hero {
-    background-image:url(../images/hero.jpg) ;
+    background-image:url(./images/hero.jpg) ;
     background-position: center;  
     background-size: cover;
     height: 540px;
@@ -244,7 +244,7 @@ header {
 /* ボトム */
 
 .column-a {
-    background-image:url(../images/bottom1.jpg) ;
+    background-image:url(./images/bottom1.jpg) ;
     background-position: center;  
     background-size: cover;
     height: 270px;
@@ -253,7 +253,7 @@ header {
 }
 
 .column-b {
-    background-image:url(../images/bottom2.jpg) ;
+    background-image:url(./images/bottom2.jpg) ;
     background-position: center;  
     background-size: cover;
     height: 270px;
@@ -262,7 +262,7 @@ header {
 }
 
 .column-c {
-    background-image:url(../images/bottom3.jpg) ;
+    background-image:url(./images/bottom3.jpg) ;
     background-position: center;  
     background-size: cover;
     height: 270px;
@@ -271,7 +271,7 @@ header {
 }
 
 .column-d {
-    background-image:url(../images/bottom4.jpg) ;
+    background-image:url(./images/bottom4.jpg) ;
     background-position: center;  
     background-size: cover;
     height: 270px;
